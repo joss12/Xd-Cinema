@@ -19,7 +19,7 @@ const MovieDetails = ({title}) => {
       setData(json);
     }
     fetchMovie()
-  }, [])
+  }, [params.id])
 
 
   return (
