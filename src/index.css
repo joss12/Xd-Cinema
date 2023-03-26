@@ -1,0 +1,16 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *{
+    background-color: rgba(83, 36, 65, 0.962);
+} */
+
+main{
+    max-width: 1280px;
+    margin: auto;
+    min-height: 90vh;
+    padding: 10px;
+}
